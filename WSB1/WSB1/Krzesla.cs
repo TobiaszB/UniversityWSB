@@ -8,6 +8,6 @@ namespace WSB1
 {
     abstract class Krzesla
     {
-
+        int ddsfsdfdsfd;
     }
 }
