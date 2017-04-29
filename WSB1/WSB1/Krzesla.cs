@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace WSB1
 {
-    class Program
+    abstract class Krzesla
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }
